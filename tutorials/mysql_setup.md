@@ -1,5 +1,5 @@
 # Setting up MySQL
-[[toc]]
+[[TarzzJb]]
 
 
 ## Creating a database for Pterodactyl
